@@ -100,12 +100,13 @@ class BirthdayManager:
 filename = "birthdaymanager.json"
 manager = BirthdayManager(filename)
 manager.load_data()
-while True:
-    try:
-        pass
-    except ValueError:
-        print(" ")
 
+
+
+
+
+
+print('hallo')
 
 #oke tinggal bikin data managernya kek
 #simpen data ultah masing2
