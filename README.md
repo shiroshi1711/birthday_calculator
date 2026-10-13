@@ -1,6 +1,15 @@
-# birthday_calculator
-Python CLI birthday calculator with OOP
+# BIRTHDAY CALCULATOR
 
-kerjain yang bener
-lanjutin belajar sama claude heh
-belajar git juga ege wkwkwk ada aja lu dari kemaren bikin repo
+a simple cli app for counting how many days left to the next birthday and storing the data to csv
+
+## Project Structure
+
+- main.py : orchestration
+- person.py : data validation
+- consoleUI.py : UI and input validation
+- calculator.py : calculate birthday
+- reprository.py : data storing
+
+## Author
+
+Novia F Malia
